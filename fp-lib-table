@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Some diode") (type "KiCad") (uri "D:/Pulchowk Campus/Hardware/Kicad_Projects/Custom Library/Some diode") (options "") (descr ""))
+)
