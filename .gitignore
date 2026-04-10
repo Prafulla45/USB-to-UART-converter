@@ -1,0 +1,11 @@
+# KiCad backups
+*-backups/
+*.zip
+
+# KiCad temp files
+*.bak
+*.tmp
+*.kicad_prl
+
+# History / unwanted
+.history/
