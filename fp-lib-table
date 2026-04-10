@@ -1,4 +1,6 @@
 (fp_lib_table
 	(version 7)
-	(lib (name "Some diode") (type "KiCad") (uri "D:/Pulchowk Campus/Hardware/Kicad_Projects/Custom Library/Some diode") (options "") (descr ""))
+	(lib (name "Some diode") (type "KiCad") (uri "D:/Pulchowk Campus/Hardware/Kicad_Projects/Custom Library/Some diode") (options "") (descr "") (disabled))
+	(lib (name "Some diode footprint") (type "KiCad") (uri "D:/Pulchowk Campus/Hardware/Kicad_Projects/Custom Library/Some diode footprint") (options "") (descr "") (disabled))
+	(lib (name "LESD5D5.0CT1G") (type "KiCad") (uri "D:/Pulchowk Campus/Hardware/Kicad_Projects/Custom Library/LESD5D5.0CT1G") (options "") (descr ""))
 )
